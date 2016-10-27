@@ -1,0 +1,6 @@
+{
+    "require": {
+        "exercise/htmlpurifier-bundle": "^0.2.3",
+        "fabpot/goutte": "^3.1"
+    }
+}
