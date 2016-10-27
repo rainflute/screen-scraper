@@ -1,3 +1,3 @@
 # screen-scraper
 
-A framework for web crawler project
+A php screen scrape tool
